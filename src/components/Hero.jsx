@@ -1,4 +1,4 @@
-import fotoRosto from '../../assets/fotoRosto.jpeg'
+import fotoRosto from '../assets/fotoRosto.jpeg'
 
 export default function Hero() {
   return (
